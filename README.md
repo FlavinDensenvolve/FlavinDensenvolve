@@ -65,7 +65,7 @@
 
   ### Vocês podem me encontrar nas redes sociais:
 <div align="center">
-  <a href="inkedin.com/in/flaviovieiraev/" target="_blank">
+  <a href="https://www.linkedin.com/in/flaviovieiraev/" target="_blank">
     <img src="linkedin1.png" width="45px" alt="LinkedIn">
   </a> 
 
