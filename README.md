@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="banner.gif" width="425px" alt="Banner">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzd5azJsaGM3ODFyaDMyOGl1d3pnMXBvdTF1cnViZnJkeTNzeTR2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.webp" width="4000px" height="250px" alt="Banner" style="object-fit: cover; border-radius: 50;">
 </div>
+
+
+
 
 <div align="center">
   👋 Olá, sou Flávio, um entusiasta da tecnologia com experiência em suporte e infraestrutura. Atualmente, estou no 5º período de Bacharelado em Sistemas de Informação na Estácio. Estou constantemente buscando aprimorar minhas habilidades e enfrentar novos desafios na área de tecnologia.
@@ -55,4 +58,12 @@
 **Figma** *(Ferramenta)*: Ferramenta de design e prototipagem de interfaces.<br>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/7b993b02-c75f-4691-b4cb-67f4f1cadcb4" width="25px" alt="Figma">
-</div></section>
+</div></section><br>
+
+
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBmYmlicThwaXZzMmtlNHQ3OW90YjZmb2Q0NmJqcXI2Yjc3aGhycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xLjc1TXeduTk4M/giphy.webp" width="300px" alt="Animated GIF">
+</div>
+
+
+
