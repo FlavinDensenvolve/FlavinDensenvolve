@@ -61,16 +61,18 @@
 </div></section><br>
 
 
+<section align="center">
 
+  ### Vocês podem me encontrar nas redes sociais:
 <div align="center">
   <a href="inkedin.com/in/flaviovieiraev/" target="_blank">
-    <img src="https://image.shutterstock.com/image-vector/linkedin-logo-icon-design-template-260nw-1693443343.jpg" width="25px" alt="LinkedIn">
+    <img src="linkedin1.png" width="45px" alt="LinkedIn">
   </a>
   
   <a href="https://www.instagram.com/flaviovieiraev/" target="_blank">
-     <img src="instagram.png" width="35px" alt="Instagram">
+     <img src="instagram.png" width="45px" alt="Instagram">
   </a>
-</div><br>
+</div></section><br>
 
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODBmYmlicThwaXZzMmtlNHQ3OW90YjZmb2Q0NmJqcXI2Yjc3aGhycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xLjc1TXeduTk4M/giphy.webp" width="300px" alt="Animated GIF">
