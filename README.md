@@ -66,8 +66,9 @@
   <a href="inkedin.com/in/flaviovieiraev/" target="_blank">
     <img src="https://image.shutterstock.com/image-vector/linkedin-logo-icon-design-template-260nw-1693443343.jpg" width="25px" alt="LinkedIn">
   </a>
+  
   <a href="https://www.instagram.com/flaviovieiraev/" target="_blank">
-    <img src="https://image.shutterstock.com/image-vector/instagram-logo-icon-design-template-260nw-1693443325.jpg" width="25px" alt="Instagram">
+     <img src="instagram.png" width="35px" alt="Instagram">
   </a>
 </div><br>
 
