@@ -67,7 +67,8 @@
 <div align="center">
   <a href="inkedin.com/in/flaviovieiraev/" target="_blank">
     <img src="linkedin1.png" width="45px" alt="LinkedIn">
-  </a>
+  </a> 
+
   
   <a href="https://www.instagram.com/flaviovieiraev/" target="_blank">
      <img src="instagram.png" width="45px" alt="Instagram">
