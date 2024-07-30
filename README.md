@@ -10,14 +10,11 @@
 
 <section align="center">
   🌍 Base: Belo Horizonte - Minas Gerais, Brasil<br>
-  🎓 Formação: Bacharelado em Sistemas de Informação, Estácio (Fevereiro de 2022 - Junho de 2026, 5º Período)<br>
+  🎓 Formação: Sistemas de Informação, Estácio - 2022 - 2026, 5º Período<br>
   👀 Interesse: Desenvolvimento Web<br>
   🤝 Aberto a colaborações e projetos<br>
   ⚡ Amo futebol, mas sou péssimo quando jogo 😆
-</section>
-
-<br>
-
+</section><br>
 <section align="center">
   <h3>Ferramentas e Tecnologias para Desenvolvimento Web</h3>
   <div align="center">
@@ -30,7 +27,6 @@
     <img src="sql1.png" width="25px" alt="SQLite">
         <img src="vscode.png" width="25px" alt="VSCode">
     <img src="https://github.com/user-attachments/assets/7b993b02-c75f-4691-b4cb-67f4f1cadcb4" width="25px" alt="Figma">
-
     
   </div>
 
