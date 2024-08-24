@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  👋 Olá, sou Flávio, um entusiasta da tecnologia com experiência em suporte e infraestrutura. Atualmente, estou no 5º período de Sistemas de Informação na Universidade Estácio de Sá. Estou constantemente buscando aprimorar minhas habilidades e enfrentar novos desafios na área de tecnologia.
+  👋 Olá, sou Flávio, um entusiasta da tecnologia com experiência em suporte e infraestrutura. Atualmente, estou no 6º período de Sistemas de Informação na Universidade Estácio de Sá. Estou constantemente buscando aprimorar minhas habilidades e enfrentar novos desafios na área de tecnologia.
 </div>
 
 <br>
