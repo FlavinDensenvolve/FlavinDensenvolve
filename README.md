@@ -30,6 +30,7 @@
     <img src="https://github.com/user-attachments/assets/7b993b02-c75f-4691-b4cb-67f4f1cadcb4" width="25px" alt="Figma">
     
   </div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f2d7f12a-095a-49d7-877e-1dfddeb2f0eb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <section align="center">
   <h3>Vocês podem me encontrar nas redes sociais:</h3>
