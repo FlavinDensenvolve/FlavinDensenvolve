@@ -18,6 +18,10 @@
 <section align="center">
   <h3>Ferramentas e Tecnologias para Desenvolvimento Web</h3>
   <div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25px" alt="HTML">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25px" alt="CSS">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25px" alt="JavaScript">
     <img src="git.png" width="25px" alt="Git">
     <img src="https://icons.iconarchive.com/icons/bokehlicia/captiva/256/web-github-icon.png" width="25px" alt="GitHub">
         <img src="mysql.png" width="25px" alt="MySQL">
