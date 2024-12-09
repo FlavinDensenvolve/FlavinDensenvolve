@@ -4,13 +4,13 @@
 
 <div align="center">
   👋 Olá!  
-  Sou **Flávio**, um apaixonado da tecnologia. Atualmente, estou no **6º período de Sistemas de Informação** na **Universidade Estácio de Sá**. Estou constantemente buscando aprimorar minhas habilidades e enfrentar novos desafios na área de tecnologia.  
+  Sou Flávio , um apaixonado da tecnologia. Atualmente, estou no 6º período de Sistemas de Informação na Universidade Estácio de Sá. Estou constantemente buscando aprimorar minhas habilidades e enfrentar novos desafios na área de tecnologia.  
 </div>
 
 ---
 
 <div align="center">
-  Sou pai do Benício e casado há 7 anos com a Laryssa, minha parceira de vida. Em casa, ainda tenho o Otto, nosso **Border Collie** cheio de energia, que deixa os dias mais animados.  
+  Sou pai do Benício e casado há 7 anos com a Laryssa, minha parceira de vida. Em casa, ainda tenho o Otto, nosso Border Collie cheio de energia, que deixa os dias mais animados.  
 
   🎮 Sou apaixonado por **games**! Apesar de preferir jogar no **PC**, confesso que tenho uma queda pelos consoles da **Xbox**.  
   🚗 Também curto muito **carros**, principalmente os que têm tecnologia de ponta. **Inovações tecnológicas** sempre me chamaram atenção, e é algo que busco me aprofundar cada vez mais.  
