@@ -6,11 +6,21 @@
   👋 Olá, sou Flávio, um entusiasta da tecnologia com experiência em suporte e infraestrutura. Atualmente, estou no 6º período de Sistemas de Informação na Universidade Estácio de Sá. Estou constantemente buscando aprimorar minhas habilidades e enfrentar novos desafios na área de tecnologia.
 </div>
 
+<div align="center">
+  Sou Flávio, pai do Benício e casado há 7 anos com a Laryssa, minha parceira de vida. Em casa, ainda tenho o Otto, nosso Border Collie cheio de energia, que deixa os dias mais animados.
+
+Sou apaixonado por games! Apesar de preferir jogar no PC, confesso que tenho uma queda pelos consoles da Xbox. Também curto muito carros, principalmente os que têm tecnologia de ponta. Inovações tecnológicas sempre me chamaram atenção, e é algo que busco me aprofundar cada vez mais.
+
+Gosto de viajar, aproveitar a natureza, ouvir uma boa música ao fundo e, claro, não dispenso um bom vinho acompanhado de uma ótima comida. Sempre que posso, tento encaixar esportes na rotina, porque acredito que cuidar do corpo é tão importante quanto cuidar da mente.
+
+Minhas metas? Concluir minha faculdade em tecnologia e conquistar reconhecimento pelo meu trabalho. Sei que o caminho exige dedicação, mas estou focado em evoluir e alcançar meus objetivos. É isso que me motiva a seguir em frente todos os dias.
+</div>
+
 <br>
 
 <section align="center">
   🌍 Base: Belo Horizonte - Minas Gerais, Brasil<br>
-  🎓 Formação: Sistemas de Informação, Estácio - 2022 - 2026, 5º Período<br>
+  🎓 Formação: Sistemas de Informação, Estácio - 2022 - 2026, 6º Período<br>
   👀 Interesse: Desenvolvimento Web<br>
   🤝 Aberto a colaborações e projetos<br>
   ⚡ Amo futebol, mas sou péssimo quando jogo 😆
